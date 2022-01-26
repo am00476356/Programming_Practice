@@ -1,0 +1,8 @@
+# WAP to check if the given element is present in the collection or not
+
+
+l = ["python","c++","java","ruby"]
+element  = "C-+"
+
+if element in l :
+    print("It is present")

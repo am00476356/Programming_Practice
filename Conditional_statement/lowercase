@@ -1,0 +1,13 @@
+# *** WAP to check if the given character is lowercase or not ***
+
+#way 1
+# string1  = input("Enter the character")
+# if string1.islower() :
+#     print(f"{string1} is lowercase character")
+#
+
+#way 2
+char = input("enter the character")
+
+if "a"<=char <="z" :
+    print(f"{char} is lowercase character")
