@@ -59,7 +59,7 @@ for item in input_string:
 
 
 print(f"The number of small cases in the string {input_string} are {count_small}")
-print(f"The number of capital cases in the string {input_string} are {count_capital}")
+print(f"The number of CAPITAL CASES in the string {input_string} are {count_capital}")
 
 
 
